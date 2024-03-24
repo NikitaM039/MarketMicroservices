@@ -1,0 +1,6 @@
+@nApiGateway_HostAddress = http://localhost:1242
+
+GET {{nApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@MarketMicroservices_HostAddress = http://localhost:5227
+
+GET {{MarketMicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
